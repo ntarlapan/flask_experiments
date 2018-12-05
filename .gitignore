@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+vev_flask_exp/*
 
 # Spyder project settings
 .spyderproject
